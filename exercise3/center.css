@@ -1,0 +1,28 @@
+.center {
+	display : block;
+	margin-left: auto;
+	margin-right: auto;
+	width: auto%;
+	height: auto%;
+}
+
+body{
+	background-color: azure;
+	color: steelblue;
+	text-align:center;
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	font-size: 22pt;
+
+	background-image: url(snow6.png);
+	background-size:100%;
+	background-attachment: fixed;
+	background-repeat: repeat-y;
+}
+
+p:hover {
+	color: darkmagenta;
+}
+
+a:hover{
+	color: orchid;
+}
